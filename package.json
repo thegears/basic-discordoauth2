@@ -1,0 +1,27 @@
+{
+  "name": "basic-discordoauth2",
+  "version": "1.0.2",
+  "description": "Basic Discord OAUTH2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "basic",
+    "discord",
+    "oauth2",
+    "oauth",
+    "auth",
+    "discordoauth",
+    "discordoauth2"
+  ],
+  "author": "thegears",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thegears/basic-discordoauth2.git"
+  }
+}
